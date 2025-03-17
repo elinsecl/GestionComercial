@@ -1,0 +1,24 @@
+C:\Users\Lynx\Desktop\ExamenGrupo2\Centro_Comercial\BLL\bin\Debug\BLL.dll
+C:\Users\Lynx\Desktop\ExamenGrupo2\Centro_Comercial\BLL\bin\Debug\BLL.pdb
+C:\Users\Lynx\Desktop\ExamenGrupo2\Centro_Comercial\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Lynx\Desktop\ExamenGrupo2\Centro_Comercial\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Lynx\Desktop\ExamenGrupo2\Centro_Comercial\BLL\obj\Debug\BLL.dll
+C:\Users\Lynx\Desktop\ExamenGrupo2\Centro_Comercial\BLL\obj\Debug\BLL.pdb
+C:\Users\Valeria\Desktop\Centro_Comercial\Centro_Comercial\Centro_Comercial\Centro_Comercial\BLL\bin\Debug\BLL.dll
+C:\Users\Valeria\Desktop\Centro_Comercial\Centro_Comercial\Centro_Comercial\Centro_Comercial\BLL\bin\Debug\BLL.pdb
+C:\Users\Valeria\Desktop\Centro_Comercial\Centro_Comercial\Centro_Comercial\Centro_Comercial\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Valeria\Desktop\Centro_Comercial\Centro_Comercial\Centro_Comercial\Centro_Comercial\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Desktop\Centro_Comercial\Centro_Comercial\Centro_Comercial\Centro_Comercial\BLL\obj\Debug\BLL.dll
+C:\Users\Valeria\Desktop\Centro_Comercial\Centro_Comercial\Centro_Comercial\Centro_Comercial\BLL\obj\Debug\BLL.pdb
+C:\Users\Josue\Desktop\Ultima version\Centro_Comercial\Centro_Comercial\BLL\bin\Debug\BLL.dll
+C:\Users\Josue\Desktop\Ultima version\Centro_Comercial\Centro_Comercial\BLL\bin\Debug\BLL.pdb
+C:\Users\Josue\Desktop\Ultima version\Centro_Comercial\Centro_Comercial\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Josue\Desktop\Ultima version\Centro_Comercial\Centro_Comercial\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\Ultima version\Centro_Comercial\Centro_Comercial\BLL\obj\Debug\BLL.dll
+C:\Users\Josue\Desktop\Ultima version\Centro_Comercial\Centro_Comercial\BLL\obj\Debug\BLL.pdb
+C:\Users\Valeria\Desktop\Version Final\Centro_Comercial\Centro_Comercial\Centro_Comercial\BLL\bin\Debug\BLL.dll
+C:\Users\Valeria\Desktop\Version Final\Centro_Comercial\Centro_Comercial\Centro_Comercial\BLL\bin\Debug\BLL.pdb
+C:\Users\Valeria\Desktop\Version Final\Centro_Comercial\Centro_Comercial\Centro_Comercial\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Valeria\Desktop\Version Final\Centro_Comercial\Centro_Comercial\Centro_Comercial\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Desktop\Version Final\Centro_Comercial\Centro_Comercial\Centro_Comercial\BLL\obj\Debug\BLL.dll
+C:\Users\Valeria\Desktop\Version Final\Centro_Comercial\Centro_Comercial\Centro_Comercial\BLL\obj\Debug\BLL.pdb

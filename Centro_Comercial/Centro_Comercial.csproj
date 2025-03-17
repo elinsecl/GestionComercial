@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7D29CB9B-E31C-4E65-B889-866EE1B0F174}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Centro_Comercial</RootNamespace>
+    <AssemblyName>Centro_Comercial</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmGestionClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGestionClientes.Designer.cs">
+      <DependentUpon>FrmGestionClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGestionEncuestas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGestionEncuestas.Designer.cs">
+      <DependentUpon>FrmGestionEncuestas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGestionServicios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGestionServicios.Designer.cs">
+      <DependentUpon>FrmGestionServicios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListadoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListadoCliente.Designer.cs">
+      <DependentUpon>FrmListadoCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListadoServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListadoServicio.Designer.cs">
+      <DependentUpon>FrmListadoServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListadoEncuesta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListadoEncuesta.Designer.cs">
+      <DependentUpon>FrmListadoEncuesta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReporteCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReporteCliente.Designer.cs">
+      <DependentUpon>FrmReporteCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReporteEncuesta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReporteEncuesta.Designer.cs">
+      <DependentUpon>FrmReporteEncuesta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReporteServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReporteServicio.Designer.cs">
+      <DependentUpon>FrmReporteServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reportes\rpt_Catalogo_Cliente.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_Catalogo_Cliente.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\rpt_Catalogo_Encuesta.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_Catalogo_Encuesta.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\rpt_Catalogo_Servicio.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_Catalogo_Servicio.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="FrmGestionClientes.resx">
+      <DependentUpon>FrmGestionClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGestionEncuestas.resx">
+      <DependentUpon>FrmGestionEncuestas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGestionServicios.resx">
+      <DependentUpon>FrmGestionServicios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListadoCliente.resx">
+      <DependentUpon>FrmListadoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListadoServicio.resx">
+      <DependentUpon>FrmListadoServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListadoEncuesta.resx">
+      <DependentUpon>FrmListadoEncuesta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReporteCliente.resx">
+      <DependentUpon>FrmReporteCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReporteEncuesta.resx">
+      <DependentUpon>FrmReporteEncuesta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReporteServicio.resx">
+      <DependentUpon>FrmReporteServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reportes\rpt_Catalogo_Cliente.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_Catalogo_Cliente.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rpt_Catalogo_Encuesta.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_Catalogo_Encuesta.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rpt_Catalogo_Servicio.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_Catalogo_Servicio.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{756690db-89a4-41dc-9ea0-8880afb57158}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DLL\DLL.csproj">
+      <Project>{da32f112-6331-4cf5-9349-86d7add7e380}</Project>
+      <Name>DLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\icons8-logout-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\icons8-edit-ios-17-outlined-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\perfil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\icons8-menu-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\icons8-menu-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\icons8-buy-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\Recursos\Img\icons8-exit-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\Recursos\Img\icons8-catalog-26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\Recursos\Img\icons8-menu-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\Recursos\Img\icons8-users-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\png-transparent-shopping-centre-computer-icons-mall-miscellaneous-angle-text-thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\2669591.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\1374128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\carrito-de-compras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\nueva-cuenta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\bolsas-de-compra.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

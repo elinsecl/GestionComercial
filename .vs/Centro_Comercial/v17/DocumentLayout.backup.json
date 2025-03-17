@@ -1,0 +1,468 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|c:\\users\\valeria\\desktop\\version final\\centro_comercial\\centro_comercial\\centro_comercial\\centro_comercial\\frmlistadoencuesta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmlistadoencuesta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\centro_comercial\\frmlistadoencuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmlistadoencuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\centro_comercial\\frmlistadoencuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmlistadoencuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|c:\\users\\valeria\\desktop\\version final\\centro_comercial\\centro_comercial\\centro_comercial\\centro_comercial\\frmlistadoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmlistadoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\centro_comercial\\frmlistadoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmlistadoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\centro_comercial\\frmlistadocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmlistadocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|c:\\users\\valeria\\desktop\\version final\\centro_comercial\\centro_comercial\\centro_comercial\\centro_comercial\\frmlistadocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmlistadocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\centro_comercial\\frmgestionclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmgestionclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\centro_comercial\\frmgestionclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmgestionclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA32F112-6331-4CF5-9349-86D7ADD7E380}|DLL\\DLL.csproj|C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\dll\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA32F112-6331-4CF5-9349-86D7ADD7E380}|DLL\\DLL.csproj|solutionrelative:dll\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\centro_comercial\\frmgestionservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmgestionservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\centro_comercial\\frmgestionservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmgestionservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756690DB-89A4-41DC-9EA0-8880AFB57158}|BLL\\BLL.csproj|C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\bll\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756690DB-89A4-41DC-9EA0-8880AFB57158}|BLL\\BLL.csproj|solutionrelative:bll\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756690DB-89A4-41DC-9EA0-8880AFB57158}|BLL\\BLL.csproj|C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\bll\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756690DB-89A4-41DC-9EA0-8880AFB57158}|BLL\\BLL.csproj|solutionrelative:bll\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|c:\\users\\valeria\\desktop\\version final\\centro_comercial\\centro_comercial\\centro_comercial\\centro_comercial\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|c:\\users\\valeria\\desktop\\version final\\centro_comercial\\centro_comercial\\centro_comercial\\centro_comercial\\frmgestionclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmgestionclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|c:\\users\\valeria\\desktop\\version final\\centro_comercial\\centro_comercial\\centro_comercial\\centro_comercial\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\centro_comercial\\frmgestionencuestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmgestionencuestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|c:\\users\\valeria\\desktop\\version final\\centro_comercial\\centro_comercial\\centro_comercial\\centro_comercial\\reportes\\rpt_catalogo_encuesta.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\reportes\\rpt_catalogo_encuesta.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|c:\\users\\valeria\\desktop\\version final\\centro_comercial\\centro_comercial\\centro_comercial\\centro_comercial\\reportes\\rpt_catalogo_servicio.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\reportes\\rpt_catalogo_servicio.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|c:\\users\\valeria\\desktop\\version final\\centro_comercial\\centro_comercial\\centro_comercial\\centro_comercial\\reportes\\rpt_catalogo_cliente.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\reportes\\rpt_catalogo_cliente.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|c:\\users\\valeria\\desktop\\version final\\centro_comercial\\centro_comercial\\centro_comercial\\centro_comercial\\frmgestionclientes.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmgestionclientes.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|c:\\users\\valeria\\desktop\\version final\\centro_comercial\\centro_comercial\\centro_comercial\\centro_comercial\\frmreportecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmreportecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\centro_comercial\\frmreporteencuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmreporteencuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\centro_comercial\\frmreporteservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmreporteservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756690DB-89A4-41DC-9EA0-8880AFB57158}|BLL\\BLL.csproj|C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\bll\\encuestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756690DB-89A4-41DC-9EA0-8880AFB57158}|BLL\\BLL.csproj|solutionrelative:bll\\encuestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\centro_comercial\\frmgestionencuestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D29CB9B-E31C-4E65-B889-866EE1B0F174}|Centro_Comercial\\Centro_Comercial.csproj|solutionrelative:centro_comercial\\frmgestionencuestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmListadoEncuesta.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmListadoEncuesta.Designer.cs",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmListadoEncuesta.Designer.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmListadoEncuesta.Designer.cs",
+              "RelativeToolTip": "Centro_Comercial\\FrmListadoEncuesta.Designer.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAwwIsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:53:35.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmListadoEncuesta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmListadoEncuesta.cs",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmListadoEncuesta.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmListadoEncuesta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Centro_Comercial\\FrmListadoEncuesta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:31:22.605Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmListadoEncuesta.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmListadoEncuesta.cs",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmListadoEncuesta.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmListadoEncuesta.cs",
+              "RelativeToolTip": "Centro_Comercial\\FrmListadoEncuesta.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAK0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:31:24.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmListadoCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmListadoCliente.cs",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmListadoCliente.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmListadoCliente.cs",
+              "RelativeToolTip": "Centro_Comercial\\FrmListadoCliente.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAAKsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:57:32.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmListadoServicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmListadoServicio.cs",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmListadoServicio.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmListadoServicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Centro_Comercial\\FrmListadoServicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:57:21.218Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmListadoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmListadoServicio.cs",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmListadoServicio.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmListadoServicio.cs",
+              "RelativeToolTip": "Centro_Comercial\\FrmListadoServicio.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAAJoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:04:06.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmListadoCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmListadoCliente.cs",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmListadoCliente.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmListadoCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Centro_Comercial\\FrmListadoCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:56:39.154Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmGestionClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmGestionClientes.cs",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmGestionClientes.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmGestionClientes.cs",
+              "RelativeToolTip": "Centro_Comercial\\FrmGestionClientes.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAQwHoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:47:17.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmGestionClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmGestionClientes.cs",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmGestionClientes.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmGestionClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Centro_Comercial\\FrmGestionClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:47:15.535Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\DLL\\Conexion.cs",
+              "RelativeDocumentMoniker": "DLL\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\DLL\\Conexion.cs",
+              "RelativeToolTip": "DLL\\Conexion.cs",
+              "ViewState": "AgIAAPACAAAAAAAAAAAAAP8CAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:55:12.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmGestionServicios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmGestionServicios.cs",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmGestionServicios.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmGestionServicios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Centro_Comercial\\FrmGestionServicios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:48:50.287Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmGestionServicios.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmGestionServicios.cs",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmGestionServicios.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmGestionServicios.cs",
+              "RelativeToolTip": "Centro_Comercial\\FrmGestionServicios.cs",
+              "ViewState": "AgIAALsBAAAAAAAAAAAAAHkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:48:53.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Servicios.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\BLL\\Servicios.cs",
+              "RelativeDocumentMoniker": "BLL\\Servicios.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\BLL\\Servicios.cs",
+              "RelativeToolTip": "BLL\\Servicios.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA2wBIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:00:41.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\BLL\\Clientes.cs",
+              "RelativeDocumentMoniker": "BLL\\Clientes.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\BLL\\Clientes.cs",
+              "RelativeToolTip": "BLL\\Clientes.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:01:18.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Centro_Comercial\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:20:45.667Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmGestionClientes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmGestionClientes.Designer.cs",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmGestionClientes.Designer.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmGestionClientes.Designer.cs",
+              "RelativeToolTip": "Centro_Comercial\\FrmGestionClientes.Designer.cs",
+              "ViewState": "AgIAACIBAAAAAAAAAAAewC4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:40:55.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmPrincipal.cs",
+              "RelativeToolTip": "Centro_Comercial\\FrmPrincipal.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAcwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:08:44.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmGestionEncuestas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmGestionEncuestas.cs",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmGestionEncuestas.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmGestionEncuestas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Centro_Comercial\\FrmGestionEncuestas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:23:35.439Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "rpt_Catalogo_Encuesta.rpt",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Reportes\\rpt_Catalogo_Encuesta.rpt",
+              "RelativeDocumentMoniker": "Centro_Comercial\\Reportes\\rpt_Catalogo_Encuesta.rpt",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Reportes\\rpt_Catalogo_Encuesta.rpt",
+              "RelativeToolTip": "Centro_Comercial\\Reportes\\rpt_Catalogo_Encuesta.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-03-02T09:46:23.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "rpt_Catalogo_Servicio.rpt",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Reportes\\rpt_Catalogo_Servicio.rpt",
+              "RelativeDocumentMoniker": "Centro_Comercial\\Reportes\\rpt_Catalogo_Servicio.rpt",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Reportes\\rpt_Catalogo_Servicio.rpt",
+              "RelativeToolTip": "Centro_Comercial\\Reportes\\rpt_Catalogo_Servicio.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-03-02T09:45:33.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "rpt_Catalogo_Cliente.rpt",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Reportes\\rpt_Catalogo_Cliente.rpt",
+              "RelativeDocumentMoniker": "Centro_Comercial\\Reportes\\rpt_Catalogo_Cliente.rpt",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Reportes\\rpt_Catalogo_Cliente.rpt",
+              "RelativeToolTip": "Centro_Comercial\\Reportes\\rpt_Catalogo_Cliente.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-03-02T09:46:02.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmGestionClientes.resx",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmGestionClientes.resx",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmGestionClientes.resx",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmGestionClientes.resx",
+              "RelativeToolTip": "Centro_Comercial\\FrmGestionClientes.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-02T10:40:55.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmReporteCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmReporteCliente.cs",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmReporteCliente.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmReporteCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Centro_Comercial\\FrmReporteCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:29:58.433Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmReporteEncuesta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmReporteEncuesta.cs",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmReporteEncuesta.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmReporteEncuesta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Centro_Comercial\\FrmReporteEncuesta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:55:16.682Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmReporteServicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmReporteServicio.cs",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmReporteServicio.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmReporteServicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Centro_Comercial\\FrmReporteServicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:38:26.666Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Encuestas.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\BLL\\Encuestas.cs",
+              "RelativeDocumentMoniker": "BLL\\Encuestas.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\BLL\\Encuestas.cs",
+              "RelativeToolTip": "BLL\\Encuestas.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:52:08.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmGestionEncuestas.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmGestionEncuestas.cs",
+              "RelativeDocumentMoniker": "Centro_Comercial\\FrmGestionEncuestas.cs",
+              "ToolTip": "C:\\Users\\Valeria\\Desktop\\Version Final\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\Centro_Comercial\\FrmGestionEncuestas.cs",
+              "RelativeToolTip": "Centro_Comercial\\FrmGestionEncuestas.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAAAEUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:23:36.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

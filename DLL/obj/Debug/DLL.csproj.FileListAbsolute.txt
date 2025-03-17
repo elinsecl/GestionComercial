@@ -1,0 +1,36 @@
+C:\Users\Lynx\Desktop\ExamenGrupo2\Centro_Comercial\DLL\bin\Debug\DLL.dll
+C:\Users\Lynx\Desktop\ExamenGrupo2\Centro_Comercial\DLL\bin\Debug\DLL.pdb
+C:\Users\Lynx\Desktop\ExamenGrupo2\Centro_Comercial\DLL\bin\Debug\BLL.dll
+C:\Users\Lynx\Desktop\ExamenGrupo2\Centro_Comercial\DLL\bin\Debug\BLL.pdb
+C:\Users\Lynx\Desktop\ExamenGrupo2\Centro_Comercial\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\Lynx\Desktop\ExamenGrupo2\Centro_Comercial\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\Lynx\Desktop\ExamenGrupo2\Centro_Comercial\DLL\obj\Debug\DLL.csproj.Up2Date
+C:\Users\Lynx\Desktop\ExamenGrupo2\Centro_Comercial\DLL\obj\Debug\DLL.dll
+C:\Users\Lynx\Desktop\ExamenGrupo2\Centro_Comercial\DLL\obj\Debug\DLL.pdb
+C:\Users\Valeria\Desktop\Centro_Comercial\Centro_Comercial\Centro_Comercial\Centro_Comercial\DLL\bin\Debug\DLL.dll
+C:\Users\Valeria\Desktop\Centro_Comercial\Centro_Comercial\Centro_Comercial\Centro_Comercial\DLL\bin\Debug\DLL.pdb
+C:\Users\Valeria\Desktop\Centro_Comercial\Centro_Comercial\Centro_Comercial\Centro_Comercial\DLL\bin\Debug\BLL.dll
+C:\Users\Valeria\Desktop\Centro_Comercial\Centro_Comercial\Centro_Comercial\Centro_Comercial\DLL\bin\Debug\BLL.pdb
+C:\Users\Valeria\Desktop\Centro_Comercial\Centro_Comercial\Centro_Comercial\Centro_Comercial\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\Valeria\Desktop\Centro_Comercial\Centro_Comercial\Centro_Comercial\Centro_Comercial\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Desktop\Centro_Comercial\Centro_Comercial\Centro_Comercial\Centro_Comercial\DLL\obj\Debug\DLL.csproj.Up2Date
+C:\Users\Valeria\Desktop\Centro_Comercial\Centro_Comercial\Centro_Comercial\Centro_Comercial\DLL\obj\Debug\DLL.dll
+C:\Users\Valeria\Desktop\Centro_Comercial\Centro_Comercial\Centro_Comercial\Centro_Comercial\DLL\obj\Debug\DLL.pdb
+C:\Users\Josue\Desktop\Ultima version\Centro_Comercial\Centro_Comercial\DLL\bin\Debug\DLL.dll
+C:\Users\Josue\Desktop\Ultima version\Centro_Comercial\Centro_Comercial\DLL\bin\Debug\DLL.pdb
+C:\Users\Josue\Desktop\Ultima version\Centro_Comercial\Centro_Comercial\DLL\bin\Debug\BLL.dll
+C:\Users\Josue\Desktop\Ultima version\Centro_Comercial\Centro_Comercial\DLL\bin\Debug\BLL.pdb
+C:\Users\Josue\Desktop\Ultima version\Centro_Comercial\Centro_Comercial\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\Josue\Desktop\Ultima version\Centro_Comercial\Centro_Comercial\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\Ultima version\Centro_Comercial\Centro_Comercial\DLL\obj\Debug\DLL.csproj.Up2Date
+C:\Users\Josue\Desktop\Ultima version\Centro_Comercial\Centro_Comercial\DLL\obj\Debug\DLL.dll
+C:\Users\Josue\Desktop\Ultima version\Centro_Comercial\Centro_Comercial\DLL\obj\Debug\DLL.pdb
+C:\Users\Valeria\Desktop\Version Final\Centro_Comercial\Centro_Comercial\Centro_Comercial\DLL\bin\Debug\DLL.dll
+C:\Users\Valeria\Desktop\Version Final\Centro_Comercial\Centro_Comercial\Centro_Comercial\DLL\bin\Debug\DLL.pdb
+C:\Users\Valeria\Desktop\Version Final\Centro_Comercial\Centro_Comercial\Centro_Comercial\DLL\bin\Debug\BLL.dll
+C:\Users\Valeria\Desktop\Version Final\Centro_Comercial\Centro_Comercial\Centro_Comercial\DLL\bin\Debug\BLL.pdb
+C:\Users\Valeria\Desktop\Version Final\Centro_Comercial\Centro_Comercial\Centro_Comercial\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\Valeria\Desktop\Version Final\Centro_Comercial\Centro_Comercial\Centro_Comercial\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Desktop\Version Final\Centro_Comercial\Centro_Comercial\Centro_Comercial\DLL\obj\Debug\DLL.csproj.Up2Date
+C:\Users\Valeria\Desktop\Version Final\Centro_Comercial\Centro_Comercial\Centro_Comercial\DLL\obj\Debug\DLL.dll
+C:\Users\Valeria\Desktop\Version Final\Centro_Comercial\Centro_Comercial\Centro_Comercial\DLL\obj\Debug\DLL.pdb
