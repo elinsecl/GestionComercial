@@ -34,7 +34,7 @@ CREATE TABLE Servicios (
 	NombreServicio VARCHAR(200) NOT NULL,
 	Descripcion VARCHAR (1000) NOT NULL,
 	Precio DECIMAL(18,2)  NOT NULL,
-    Duracion INT NOT NULL CHECK (Duracion <= 500), -- Restricción de límite
+    Duracion INT NOT NULL CHECK (Duracion <= 500), -- RestricciÃ³n de lÃ­mite
 	Categoria VARCHAR (50) NOT NULL,
 	Estado VARCHAR (20) NOT NULL,
 	FechaCreacion DATE NOT NULL,
@@ -89,7 +89,7 @@ BEGIN
 		WHERE NombreServicio LIKE '%' + RTRIM(LTRIM(@NombreServicio)) + '%'
 		ORDER BY NombreServicio;
 
-		PRINT 'Búsqueda completada correctamente';
+		PRINT 'BÃºsqueda completada correctamente';
 END;
 GO 
 
@@ -109,7 +109,7 @@ BEGIN
 		WHERE IdServicio LIKE '%' + RTRIM(LTRIM(@IdServicio)) + '%'
 		ORDER BY IdServicio;
 
-		PRINT 'Búsqueda completada correctamente';
+		PRINT 'BÃºsqueda completada correctamente';
 END;
 GO 
 -----------------------------------------------------------------------------------
@@ -246,7 +246,7 @@ BEGIN
 		WHERE NombreCompleto LIKE '%' + RTRIM(LTRIM(@NombreCompleto)) + '%'
 		ORDER BY NombreCompleto;
 
-		PRINT 'Búsqueda completada correctamente';
+		PRINT 'BÃºsqueda completada correctamente';
 END;
 GO 
 
@@ -261,7 +261,7 @@ CREATE  PROCEDURE [Sp_Buscar_Id_Cliente]
 AS
 BEGIN
     SELECT * FROM Clientes WHERE IdCliente = @IdCliente;
-    PRINT 'Búsqueda completada correctamente';
+    PRINT 'BÃºsqueda completada correctamente';
 END;
 GO
 
@@ -331,11 +331,11 @@ GO
 SELECT * FROM [Vp_Cns_Clientes] ORDER BY NombreCompleto;
 
 EXEC [Sp_Ins_Cliente] 
-    'Juan Pérez', 
+    'Juan PÃ©rez', 
     '1990-05-15', 
     'juan.perez@email.com', 
     '88889999', 
-    'Calle 123, Ciudad, País', 
+    'Calle 123, Ciudad, PaÃ­s', 
     '2025-03-01', 
     'Activo', 
     'https://ejemplo.com/foto.jpg';
@@ -344,7 +344,7 @@ EXEC [Sp_Ins_Cliente]
     '1990-05-15', 
     'juan.perez@email.com', 
     '88889999', 
-    'Calle 123, Ciudad, País', 
+    'Calle 123, Ciudad, PaÃ­s', 
     '2025-03-01', 
     'Activo', 
     'https://ejemplo.com/foto.jpg';
@@ -367,7 +367,7 @@ CREATE TABLE Encuestas (
 	Comentarios VARCHAR (1000) NULL,
 	FechaEncuesta DATE NOT NULL CHECK (FechaEncuesta <= GETDATE()),  -- No permite fechas futuras
 	CalificacionEncuesta INT NOT NULL CHECK (CalificacionEncuesta BETWEEN 1 AND 5),  -- Solo valores entre 1 y 5
-	TipoEncuesta VARCHAR(20) NOT NULL CHECK (TipoEncuesta IN ('Satisfacción', 'Recomendación', 'Opinión')),  -- Solo permite estos valores
+	TipoEncuesta VARCHAR(20) NOT NULL CHECK (TipoEncuesta IN ('SatisfacciÃ³n', 'RecomendaciÃ³n', 'OpiniÃ³n')),  -- Solo permite estos valores
     	EstadoEncuesta VARCHAR(20) NOT NULL CHECK (EstadoEncuesta IN ('Completada', 'Pendiente')),  -- Solo permite estos valores
 	CONSTRAINT FK_Encuestas_Clientes FOREIGN KEY (IdCliente) REFERENCES Clientes (IdCliente),
 	CONSTRAINT FK_Encuestas_Servicios FOREIGN KEY (IdServicio) REFERENCES Servicios (IdServicio)
@@ -394,14 +394,14 @@ CREATE OR ALTER PROCEDURE [Sp_Ins_Encuesta]
 	@EstadoEncuesta VARCHAR (20)
 AS
 BEGIN
-		-- Verificar si la encuesta es anónima (solo permitido en tipo 'Satisfacción')
-    	IF @IdCliente IS NULL AND @TipoEncuesta <> 'Satisfacción'
+		-- Verificar si la encuesta es anÃ³nima (solo permitido en tipo 'SatisfacciÃ³n')
+    	IF @IdCliente IS NULL AND @TipoEncuesta <> 'SatisfacciÃ³n'
     	BEGIN
-        	PRINT 'Solo las encuestas de tipo "Satisfacción" pueden ser anónimas.';
+        	PRINT 'Solo las encuestas de tipo "SatisfacciÃ³n" pueden ser anÃ³nimas.';
         RETURN;
     END
 
-    	-- Verificar si el cliente está activo (si la encuesta no es anónima)
+    	-- Verificar si el cliente estÃ¡ activo (si la encuesta no es anÃ³nima)
     	IF @IdCliente IS NOT NULL AND NOT EXISTS (SELECT 1 FROM Clientes WHERE IdCliente = @IdCliente AND EstadoCuenta = 'Activo')
     	BEGIN
         	PRINT 'Solo los clientes activos pueden responder encuestas.';
@@ -431,7 +431,7 @@ BEGIN
     	WHERE TipoEncuesta LIKE '%' + RTRIM(LTRIM(@TipoEncuesta)) + '%'
     	ORDER BY TipoEncuesta;
 
-    	PRINT 'Búsqueda completada correctamente.';
+    	PRINT 'BÃºsqueda completada correctamente.';
 END;
 GO
 -- Verificar que el procedimiento almacenado no exista en la BD
@@ -447,7 +447,7 @@ AS
 BEGIN
     	SELECT * FROM Encuestas WHERE IdEncuesta = @IdEncuesta;
 
-    	PRINT 'Búsqueda completada correctamente.';
+    	PRINT 'BÃºsqueda completada correctamente.';
 END;
 GO
 -----------------------------------------------------------------------------------
@@ -470,21 +470,21 @@ CREATE OR ALTER PROCEDURE [Sp_Upd_Encuesta]
     	@EstadoEncuesta VARCHAR(20)
 AS
 BEGIN
- 		-- Verificar si la encuesta es anónima
-		IF @IdCliente IS NULL AND @TipoEncuesta <> 'Satisfacción'
+ 		-- Verificar si la encuesta es anÃ³nima
+		IF @IdCliente IS NULL AND @TipoEncuesta <> 'SatisfacciÃ³n'
 		BEGIN
-			PRINT 'Solo las encuestas de tipo "Satisfacción" pueden ser anónimas.';
+			PRINT 'Solo las encuestas de tipo "SatisfacciÃ³n" pueden ser anÃ³nimas.';
         RETURN;
     END
 
-		-- Verificar si el cliente está activo, si no es anónima
+		-- Verificar si el cliente estÃ¡ activo, si no es anÃ³nima
 		IF @IdCliente IS NOT NULL AND NOT EXISTS (SELECT 1 FROM Clientes WHERE IdCliente = @IdCliente AND EstadoCuenta = 'Activo')
 		BEGIN
 			PRINT 'Solo los clientes activos pueden responder encuestas.';
         RETURN;
     END
 	
-	-- Actualizar la encuesta si no está completada
+	-- Actualizar la encuesta si no estÃ¡ completada
     	UPDATE Encuestas
     	SET 	
 			IdCliente = @IdCliente,
@@ -564,11 +564,11 @@ GO
 CREATE PROCEDURE VerificarClientesInactivos
 AS
 BEGIN
-    -- Declarar la fecha límite, que es 2 meses antes de la fecha actual
+    -- Declarar la fecha lÃ­mite, que es 2 meses antes de la fecha actual
     DECLARE @FechaLimite DATETIME
     SET @FechaLimite = DATEADD(MONTH, -2, GETDATE())
 
-    -- Actualizar los clientes que no tienen encuestas en los últimos 2 meses a 'Inactivo'
+    -- Actualizar los clientes que no tienen encuestas en los Ãºltimos 2 meses a 'Inactivo'
     UPDATE c
     SET c.EstadoCuenta = 'Inactivo'
     FROM Clientes c
